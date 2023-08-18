@@ -1,3 +1,2 @@
 # mqc-plots
-local edit
-online edit
+If you wanna make/edit plots, https://happygitwithr.com/.
